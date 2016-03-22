@@ -2,4 +2,4 @@
 
 # HackUTD 16 Mentoring
 
-Have a problem you need help with? Go to the issues tab to create a new issue describing your problem and we'll send you a mentor to help out.
+Have a problem you need help with? Go to the issues tab to create a new issue describing your problem and we'll send you a mentor to help out. You'll need a GitHub account to open an issue (having one is highly recommended, in general).
